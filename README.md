@@ -1,7 +1,7 @@
 <div align="center">  
 
 ## About Me
-My name is Gabriela Lemos
+I'm Gabriela Lemos
 
 I'm a computer science student at [UNICAP](https://portal.unicap.br/)
 
