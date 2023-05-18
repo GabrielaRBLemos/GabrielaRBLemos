@@ -11,7 +11,7 @@ I'm a computer science student at [UNICAP](https://portal.unicap.br/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-r-a64413232/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/GabrielaRBLemos/)  
 [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/806631)
-[Kattis](https://open.kattis.com/users/-gabriela-ribeiro-barbosa-lemos)
+| [Kattis](https://open.kattis.com/users/-gabriela-ribeiro-barbosa-lemos)
   
 <!-- GitHub Stats Card, light and dark-->
   
