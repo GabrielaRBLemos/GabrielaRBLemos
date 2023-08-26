@@ -8,7 +8,7 @@ I'm a computer science student at [UNICAP](https://portal.unicap.br/)
 ## Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielarblemos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-r-a64413232/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GabrielaRBLemos/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/GabrielaRBLemos/)  
 [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/806631)
 | [Kattis](https://open.kattis.com/users/-gabriela-ribeiro-barbosa-lemos)
