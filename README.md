@@ -18,9 +18,9 @@ I'm a computer science student at [UNICAP](https://portal.unicap.br/)
 [![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaRBLemos&show_icons=true#gh-light-mode-only)](https://github.com/GabrielaRBLemos/github-readme-stats#gh-light-mode-only)
 
 [![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaRBLemos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GabrielaRBLemos/github-readme-stats#gh-dark-mode-only)
-
+-->  
 
 [![TypingSVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=4f94ef&center=true&vCenter=true&width=435&height=67&lines=If+you+can't+give+me+poetry,;+Can't+you+give+me+poetical+science%3F+;-+Ada+Lovelace)](https://git.io/typing-svg)
--->                    
+                  
 
 </div>
