@@ -5,6 +5,8 @@ I'm Gabriela Lemos
 
 I'm a computer science student at [UNICAP](https://portal.unicap.br/)
 
+I'm also a undergraduate researcher and recently completed my season as a mentor for the [Technovation Girls](https://technovationchallenge.org/) project.
+
 ## Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielarblemos@gmail.com)
