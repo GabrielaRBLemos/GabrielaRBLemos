@@ -18,6 +18,7 @@ I'm also a undergraduate researcher and recently completed my season as a mentor
 ## Skills
 
 <a href="https://www.mysql.com/"><img src="/graphics/powered-by-mysql-bow.svg" alt="MySQL" width="15%"/></a>
+<a href="https://www.sqlite.org/index.html"><img src="/graphics/SQLite.svg" alt="SQLite" width="15%"/></a>
   
 <!-- GitHub Stats Card, light and dark-->
 <!--  
