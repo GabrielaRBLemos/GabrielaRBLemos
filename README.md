@@ -14,6 +14,10 @@ I'm also a undergraduate researcher and recently completed my season as a mentor
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/GabrielaRBLemos/)  
 [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/806631)
 | [Kattis](https://open.kattis.com/users/-gabriela-ribeiro-barbosa-lemos)
+
+## Skills
+
+<img src="/graphics/powered-by-mysql-bow.svg" alt="MySQL" width="15%"/>
   
 <!-- GitHub Stats Card, light and dark-->
 <!--  
