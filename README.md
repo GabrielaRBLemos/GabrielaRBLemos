@@ -21,6 +21,7 @@ I'm also a undergraduate researcher and recently completed my season as a mentor
 <a href="https://www.sqlite.org/index.html"><img src="/graphics/SQLite.svg" alt="SQLite" width="15%"/></a>
 <a href="https://www.python.org/psf-landing/"><img src="/graphics/python-logo-generic.svg" alt="Python" width="15%"/></a>
 <a href="https://jupyter.org/"><img src="/graphics/Jupyter.svg" alt="Jupyter" height="15%"/></a>
+<a href=""><img src="/graphics/The_C_Programming_Language_logo.svg" alt="C Language" width="10%"/></a>
   
 <!-- GitHub Stats Card, light and dark-->
 <!--  
