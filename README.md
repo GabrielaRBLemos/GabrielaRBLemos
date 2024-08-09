@@ -7,14 +7,6 @@ I'm a computer science student at [UNICAP](https://portal.unicap.br/)
 
 I'm also a undergraduate researcher and recently completed my season as a mentor for the [Technovation Girls](https://technovationchallenge.org/) project.
 
-## Socials
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielarblemos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GabrielaRBLemos/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/GabrielaRBLemos/)  
-[Beecrowd](https://www.beecrowd.com.br/judge/en/profile/806631)
-| [Kattis](https://open.kattis.com/users/-gabriela-ribeiro-barbosa-lemos)
-
 ## Skills
 
 <a href="https://www.mysql.com/"><img src="/graphics/powered-by-mysql-bow.svg" alt="MySQL" width="15%"/></a>
@@ -23,6 +15,14 @@ I'm also a undergraduate researcher and recently completed my season as a mentor
 <a href="https://jupyter.org/"><img src="/graphics/Jupyter.svg" alt="Jupyter" height="15%"/></a>
 <a href=""><img src="/graphics/The_C_Programming_Language_logo.svg" alt="C Language" width="9%"/></a>
 <a href="https://www.java.com/"><img src="/graphics/Java_Powered_Logo.svg" alt="Java" width="15%"/></a>
+
+## Socials
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielarblemos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GabrielaRBLemos/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/GabrielaRBLemos/)  
+[Beecrowd](https://www.beecrowd.com.br/judge/en/profile/806631)
+| [Kattis](https://open.kattis.com/users/-gabriela-ribeiro-barbosa-lemos)
   
 <!-- GitHub Stats Card, light and dark-->
 <!--  
