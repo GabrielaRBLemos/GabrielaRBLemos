@@ -19,11 +19,7 @@ I'm also a undergraduate researcher and recently completed my season as a mentor
 ## Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielarblemos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GabrielaRBLemos/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/GabrielaRBLemos/)  
-[Beecrowd](https://www.beecrowd.com.br/judge/en/profile/806631)
-| [Kattis](https://open.kattis.com/users/-gabriela-ribeiro-barbosa-lemos)
-  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GabrielaRBLemos/)  
 <!-- GitHub Stats Card, light and dark-->
 <!--  
 [![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaRBLemos&show_icons=true#gh-light-mode-only)](https://github.com/GabrielaRBLemos/github-readme-stats#gh-light-mode-only)
